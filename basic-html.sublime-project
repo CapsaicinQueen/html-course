@@ -2,7 +2,19 @@
 	"folders":
 	[
 		{
+			"path": "/Applications/Sublime Text.app/Contents"
+		},
+		{
 			"path": "."
+		},
+		{
+			"path": "/Users/brianapaquin/Desktop/fonts"
+		},
+		{
+			"path": "/Users/brianapaquin/Desktop/css"
+		},
+		{
+			"path": "/Users/brianapaquin/Desktop/js"
 		}
 	]
 }
