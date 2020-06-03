@@ -7,31 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1496,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "page2.html",
-			"settings":
-			{
-				"buffer_size": 964,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "CSS Bootstrap -Text Grid.html",
-			"settings":
-			{
-				"buffer_size": 2668,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -66,13 +41,16 @@
 	"file_history":
 	[
 		"/Users/brianapaquin/Desktop/basic-html/basic-html.sublime-project",
+		"/Users/brianapaquin/Desktop/basic-html/CSS Bootstrap -Text Grid.html",
+		"/Users/brianapaquin/Desktop/basic-html/index.html",
+		"/Users/brianapaquin/Desktop/basic-html/page2.html",
+		"/Applications/index.html",
+		"/Applications/page2.html",
 		"/Users/brianapaquin/Desktop/basic-html/basic-html.sublime-workspace",
 		"/Users/brianapaquin/Desktop/basic-html/x.html",
 		"/Users/brianapaquin/Desktop/basic-html/x",
 		"/Users/brianapaquin/Desktop/basic-html/Contents",
 		"/Users/brianapaquin/Desktop/basic-html/CSS Bootstrap -Text Grid",
-		"/Users/brianapaquin/Desktop/basic-html/page2.html",
-		"/Users/brianapaquin/Desktop/basic-html/index.html",
 		"/Users/brianapaquin/Desktop/basic-html/Basic-html.sublime-project",
 		"/Users/brianapaquin/Desktop/html GoSkills Lessons + Sublime Text/Basic-html.sublime-project",
 		"/Users/brianapaquin/Desktop/Sublime Text & GoSkills Lessons/Sublime Text.app/basic-html/page 2.html",
@@ -129,97 +107,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "page2.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 964,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "CSS Bootstrap -Text Grid.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2668,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -259,7 +148,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "basic-html.sublime-project",
+	"project": "untitled.sublime-project",
 	"replace":
 	{
 		"height": 44.0
